@@ -1,4 +1,4 @@
-# bitcoin_website_animation
+# BitcoinWebsiteAnimation
 
 An interactive Bitcoin website featuring scroll-driven animations, chapter-based storytelling, and real-time network data. Built with React, Vite, and Express.
 
@@ -39,11 +39,10 @@ git --version
 
 ### 1. Clone the repository
 
-Replace `YOUR_GITHUB_USERNAME` with the GitHub username that owns the repository:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/bitcoin_website_animation.git
-cd bitcoin_website_animation
+git clone https://github.com/4917281930/BitcoinWebsiteAnimation.git
+cd BitcoinWebsiteAnimation
 ```
 
 ### 2. Install dependencies
